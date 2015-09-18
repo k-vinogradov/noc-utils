@@ -1,0 +1,6 @@
+
+
+[import 1]
+organizer    = /Devices/Network/Switch/D-Link/DXS-3600
+mo profile   = Access Switch
+auth profile = Zenoss Robot

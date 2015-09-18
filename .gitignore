@@ -58,3 +58,7 @@ target/
 
 # PyCharm
 .idea/
+
+# NOC Utils
+
+*.conf
